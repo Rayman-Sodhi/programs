@@ -6,7 +6,7 @@
         int array[3][3];
         int i, j, m, n, a = 0, sum = 0;
 
-        printf("Enetr the order of the matix \n");
+        printf("Enter the order of the matix \n");
         scanf("%d %d", &m, &n);
 
         if (m == n )
